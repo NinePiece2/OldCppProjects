@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1582212352 source:c:\users\romit\desktop\comp sci\class_assignment_1\main.cpp
+	<iostream>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+	"Q5.h"
+	"Q6.h"
+	"Q7.h"
+	"Q8.h"
+	"Q9.h"
+	"Q10.h"
+	"Q11.h"
+	"Q12.h"
+	"Q13.h"
+	"Q14.h"
+	"Q15.h"
+
+1582037316 c:\users\romit\desktop\comp sci\class_assignment_1\include\q1.h
+
+1582038141 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q2.cpp
+	"Q2.h"
+	<iostream>
+
+1582037328 c:\users\romit\desktop\comp sci\class_assignment_1\include\q2.h
+
+1582038435 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q3.cpp
+	"Q3.h"
+	<iostream>
+
+1582037352 c:\users\romit\desktop\comp sci\class_assignment_1\include\q3.h
+
+1582037772 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q1.cpp
+	"Q1.h"
+	<iostream>
+
+1582038488 c:\users\romit\desktop\comp sci\class_assignment_1\include\q4.h
+
+1582039841 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q5.cpp
+	"Q5.h"
+	<iostream>
+
+1582038505 c:\users\romit\desktop\comp sci\class_assignment_1\include\q5.h
+
+1582039320 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q4.cpp
+	"Q4.h"
+	<iostream>
+
+1582039798 c:\users\romit\desktop\comp sci\class_assignment_1\include\q6.h
+
+1582040855 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q7.cpp
+	"Q7.h"
+	<iostream>
+
+1582039830 c:\users\romit\desktop\comp sci\class_assignment_1\include\q7.h
+
+1582040517 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q6.cpp
+	"Q6.h"
+	<iostream>
+	<iomanip>
+
+1582040902 c:\users\romit\desktop\comp sci\class_assignment_1\include\q8.h
+
+1582121251 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q9.cpp
+	"Q9.h"
+	<iostream>
+	<iomanip>
+
+1582040916 c:\users\romit\desktop\comp sci\class_assignment_1\include\q9.h
+
+1582120595 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q8.cpp
+	"Q8.h"
+	<iostream>
+	<iomanip>
+
+1582121263 c:\users\romit\desktop\comp sci\class_assignment_1\include\q10.h
+
+1582121281 c:\users\romit\desktop\comp sci\class_assignment_1\include\q11.h
+
+1582121300 c:\users\romit\desktop\comp sci\class_assignment_1\include\q12.h
+
+1582148942 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q11.cpp
+	<iostream>
+	"Q11.h"
+
+1582210917 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q12.cpp
+	"Q12.h"
+	<iostream>
+
+1582122470 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q10.cpp
+	"Q10.h"
+	<iostream>
+	<iomanip>
+
+1582210962 c:\users\romit\desktop\comp sci\class_assignment_1\include\q13.h
+
+1582210975 c:\users\romit\desktop\comp sci\class_assignment_1\include\q14.h
+
+1582210986 c:\users\romit\desktop\comp sci\class_assignment_1\include\q15.h
+
+1582212318 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q14.cpp
+	"Q14.h"
+	<iostream>
+
+1582212796 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q15.cpp
+	"Q15.h"
+	<iostream>
+	<iomanip>
+
+1582211281 source:c:\users\romit\desktop\comp sci\class_assignment_1\src\q13.cpp
+	"Q13.h"
+	<iostream>
+

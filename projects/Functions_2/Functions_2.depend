@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1588611772 source:c:\users\romit\desktop\comp sci\functions_2\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+
+1588611483 c:\users\romit\desktop\comp sci\functions_2\include\q1.h
+
+1588611491 c:\users\romit\desktop\comp sci\functions_2\include\q2.h
+
+1588612027 source:c:\users\romit\desktop\comp sci\functions_2\src\q2.cpp
+	<bits/stdc++.h>
+	"Q2.h"
+
+1588611745 source:c:\users\romit\desktop\comp sci\functions_2\src\q1.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+

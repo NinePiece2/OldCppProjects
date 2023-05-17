@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1583162845 source:c:\users\romit\desktop\comp sci\decision_making\main.cpp
+	<iostream>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+	"Q5.h"
+	"Q6.h"
+	"Q7.h"
+
+1583160697 c:\users\romit\desktop\comp sci\decision_making\include\q1.h
+
+1583161243 source:c:\users\romit\desktop\comp sci\decision_making\src\q2.cpp
+	"Q2.h"
+	<iostream>
+
+1583160712 c:\users\romit\desktop\comp sci\decision_making\include\q2.h
+
+1583160897 source:c:\users\romit\desktop\comp sci\decision_making\src\q1.cpp
+	"Q1.h"
+	<iostream>
+
+1583161085 c:\users\romit\desktop\comp sci\decision_making\include\q3.h
+
+1583161100 c:\users\romit\desktop\comp sci\decision_making\include\q4.h
+
+1583161113 c:\users\romit\desktop\comp sci\decision_making\include\q5.h
+
+1583161243 source:c:\users\romit\desktop\comp sci\decision_making\src\q3.cpp
+	"Q3.h"
+	<iostream>
+
+1583161505 source:c:\users\romit\desktop\comp sci\decision_making\src\q4.cpp
+	"Q4.h"
+	<iostream>
+	<iomanip>
+
+1583162009 source:c:\users\romit\desktop\comp sci\decision_making\src\q5.cpp
+	"Q5.h"
+	<iostream>
+	<iomanip>
+
+1583162125 c:\users\romit\desktop\comp sci\decision_making\include\q6.h
+
+1583162141 c:\users\romit\desktop\comp sci\decision_making\include\q7.h
+
+1583162338 source:c:\users\romit\desktop\comp sci\decision_making\src\q6.cpp
+	"Q6.h"
+	<iostream>
+	<iomanip>
+
+1583162845 source:c:\users\romit\desktop\comp sci\decision_making\src\q7.cpp
+	"Q7.h"
+	<iostream>
+	<iomanip>
+

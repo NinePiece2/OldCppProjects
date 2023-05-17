@@ -1,0 +1,7 @@
+start - Starts the game
+
+next - Shows the next number
+
+exit - Stops the program (Asks for Confermation)
+
+check - Shows the values that are have been drawn preveously

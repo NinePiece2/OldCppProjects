@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1586562105 source:c:\users\romit\desktop\comp sci\converting_between_loops\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+
+1586560434 c:\users\romit\desktop\comp sci\converting_between_loops\include\q1.h
+
+1586560443 c:\users\romit\desktop\comp sci\converting_between_loops\include\q2.h
+
+1586560452 c:\users\romit\desktop\comp sci\converting_between_loops\include\q3.h
+
+1586560465 c:\users\romit\desktop\comp sci\converting_between_loops\include\q4.h
+
+1586561461 source:c:\users\romit\desktop\comp sci\converting_between_loops\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+
+1586561892 source:c:\users\romit\desktop\comp sci\converting_between_loops\src\q3.cpp
+	"Q3.h"
+	<bits/stdc++.h>
+
+1586562380 source:c:\users\romit\desktop\comp sci\converting_between_loops\src\q4.cpp
+	"Q4.h"
+	<bits/stdc++.h>
+
+1586561049 source:c:\users\romit\desktop\comp sci\converting_between_loops\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+

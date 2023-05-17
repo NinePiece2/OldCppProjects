@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1583333558 source:c:\users\romit\desktop\comp sci\worksheet_if-else\main.cpp
+	<iostream>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+	"Q5.h"
+	"Q6.h"
+
+1583241736 c:\users\romit\desktop\comp sci\worksheet_if-else\include\q1.h
+
+1583241751 c:\users\romit\desktop\comp sci\worksheet_if-else\include\q2.h
+
+1583241763 c:\users\romit\desktop\comp sci\worksheet_if-else\include\q3.h
+
+1583241779 c:\users\romit\desktop\comp sci\worksheet_if-else\include\q4.h
+
+1583241798 c:\users\romit\desktop\comp sci\worksheet_if-else\include\q5.h
+
+1583241813 c:\users\romit\desktop\comp sci\worksheet_if-else\include\q6.h
+
+1583243946 source:c:\users\romit\desktop\comp sci\worksheet_if-else\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+
+1583244458 source:c:\users\romit\desktop\comp sci\worksheet_if-else\src\q3.cpp
+	"Q3.h"
+	<bits/stdc++.h>
+
+1583245226 source:c:\users\romit\desktop\comp sci\worksheet_if-else\src\q4.cpp
+	"Q4.h"
+	<bits/stdc++.h>
+
+1583245913 source:c:\users\romit\desktop\comp sci\worksheet_if-else\src\q5.cpp
+	"Q5.h"
+	<bits/stdc++.h>
+
+1583333583 source:c:\users\romit\desktop\comp sci\worksheet_if-else\src\q6.cpp
+	"Q6.h"
+	<bits/stdc++.h>
+
+1583243509 source:c:\users\romit\desktop\comp sci\worksheet_if-else\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+

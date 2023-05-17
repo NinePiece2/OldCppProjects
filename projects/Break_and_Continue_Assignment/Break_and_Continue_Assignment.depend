@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1587504347 source:c:\users\romit\desktop\comp sci\break_and_continue_assignment\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+
+1587500781 c:\users\romit\desktop\comp sci\break_and_continue_assignment\include\q1.h
+
+1587500796 c:\users\romit\desktop\comp sci\break_and_continue_assignment\include\q2.h
+
+1587500805 c:\users\romit\desktop\comp sci\break_and_continue_assignment\include\q3.h
+
+1587500813 c:\users\romit\desktop\comp sci\break_and_continue_assignment\include\q4.h
+
+1587503994 source:c:\users\romit\desktop\comp sci\break_and_continue_assignment\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+
+1587504237 source:c:\users\romit\desktop\comp sci\break_and_continue_assignment\src\q3.cpp
+	"Q3.h"
+	<bits/stdc++.h>
+
+1587502853 source:c:\users\romit\desktop\comp sci\break_and_continue_assignment\src\q4.cpp
+	"Q4.h"
+	<bits/stdc++.h>
+
+1587503311 source:c:\users\romit\desktop\comp sci\break_and_continue_assignment\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+

@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1580910927 source:c:\users\romit\desktop\comp sci\test\src\q1.cpp
+	"Q1.h"
+	<iostream>
+
+1580909833 c:\users\romit\desktop\comp sci\test\include\q1.h
+
+1580911025 source:c:\users\romit\desktop\comp sci\test\src\q4.cpp
+	"Q4.h"
+	<iostream>
+
+1580910559 c:\users\romit\desktop\comp sci\test\include\q4.h
+
+1580911222 source:c:\users\romit\desktop\comp sci\test\src\q5.cpp
+	"Q5.h"
+	<iostream>
+
+1580910572 c:\users\romit\desktop\comp sci\test\include\q5.h
+
+1580939429 source:c:\users\romit\desktop\comp sci\test\main.cpp
+	<iostream>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+	"Q5.h"
+	"Q6.h"
+	"Q7.h"
+	"Q8.h"
+
+1580910534 c:\users\romit\desktop\comp sci\test\include\q2.h
+
+1580910547 c:\users\romit\desktop\comp sci\test\include\q3.h
+
+1580910931 source:c:\users\romit\desktop\comp sci\test\src\q2.cpp
+	"Q2.h"
+	<iostream>
+
+1580911692 source:c:\users\romit\desktop\comp sci\test\src\q3.cpp
+	"Q3.h"
+	<iostream>
+
+1580911271 c:\users\romit\desktop\comp sci\test\include\q6.h
+
+1580912719 source:c:\users\romit\desktop\comp sci\test\src\q6.cpp
+	"Q6.h"
+	<iostream>
+
+1580912592 c:\users\romit\desktop\comp sci\test\include\q7.h
+
+1580912812 source:c:\users\romit\desktop\comp sci\test\src\q7.cpp
+	"Q7.h"
+	<iostream>
+
+1580912918 source:c:\users\romit\desktop\comp sci\test\src\q8.cpp
+	"Q8.h"
+	<iostream>
+
+1580912857 c:\users\romit\desktop\comp sci\test\include\q8.h
+
+1580909833 c:\users\romit\desktop\comp sci\test\q1.h
+
+1580910534 c:\users\romit\desktop\comp sci\test\q2.h
+
+1580910547 c:\users\romit\desktop\comp sci\test\q3.h
+
+1580910559 c:\users\romit\desktop\comp sci\test\q4.h
+
+1580910572 c:\users\romit\desktop\comp sci\test\q5.h
+
+1580911271 c:\users\romit\desktop\comp sci\test\q6.h
+
+1580912592 c:\users\romit\desktop\comp sci\test\q7.h
+
+1580912857 c:\users\romit\desktop\comp sci\test\q8.h
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1582639980 source:c:\users\romit\desktop\comp sci\pair_programming_3-division_and_modulus\main.cpp
+	<iostream>
+	"ECCO_Coding_Contest.h"
+	"threeDigitDisplay.h"
+	"change.h"
+
+1582637023 c:\users\romit\desktop\comp sci\pair_programming_3-division_and_modulus\include\ecco_coding_contest.h
+
+1582637805 source:c:\users\romit\desktop\comp sci\pair_programming_3-division_and_modulus\src\ecco_coding_contest.cpp
+	"ECCO_Coding_Contest.h"
+	<iostream>
+
+1582639326 source:c:\users\romit\desktop\comp sci\pair_programming_3-division_and_modulus\src\threedigitdisplay.cpp
+	"threeDigitDisplay.h"
+	<iostream>
+
+1582637913 c:\users\romit\desktop\comp sci\pair_programming_3-division_and_modulus\include\threedigitdisplay.h
+
+1582639479 c:\users\romit\desktop\comp sci\pair_programming_3-division_and_modulus\include\change.h
+
+1582640044 source:c:\users\romit\desktop\comp sci\pair_programming_3-division_and_modulus\src\change.cpp
+	"change.h"
+	<iostream>
+

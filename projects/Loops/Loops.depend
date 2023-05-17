@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1583853538 source:c:\users\romit\desktop\comp sci\loops\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+
+1583853249 c:\users\romit\desktop\comp sci\loops\include\q1.h
+
+1583853665 source:c:\users\romit\desktop\comp sci\loops\src\q3.cpp
+	"Q3.h"
+	<bits/stdc++.h>
+
+1583853321 c:\users\romit\desktop\comp sci\loops\include\q3.h
+
+1583853766 source:c:\users\romit\desktop\comp sci\loops\src\q4.cpp
+	"Q4.h"
+	<bits/stdc++.h>
+
+1583853336 c:\users\romit\desktop\comp sci\loops\include\q4.h
+
+1583853885 source:c:\users\romit\desktop\comp sci\loops\src\q5.cpp
+	"Q5.h"
+	<bits/stdc++.h>
+
+1583853354 c:\users\romit\desktop\comp sci\loops\include\q5.h
+
+1583853434 source:c:\users\romit\desktop\comp sci\loops\src\q6.cpp
+	"Q6.h"
+	<bits/stdc++.h>
+
+1583853367 c:\users\romit\desktop\comp sci\loops\include\q6.h
+
+1583854007 source:c:\users\romit\desktop\comp sci\loops\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+	"Q5.h"
+	"Q6.h"
+
+1583853261 c:\users\romit\desktop\comp sci\loops\include\q2.h
+
+1583853599 source:c:\users\romit\desktop\comp sci\loops\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+

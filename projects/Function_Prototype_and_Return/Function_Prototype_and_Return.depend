@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589906718 source:c:\users\romit\desktop\comp sci\function_prototype_and_return\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+
+1589905631 c:\users\romit\desktop\comp sci\function_prototype_and_return\include\q1.h
+
+1589905644 c:\users\romit\desktop\comp sci\function_prototype_and_return\include\q2.h
+
+1589912275 source:c:\users\romit\desktop\comp sci\function_prototype_and_return\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+
+1589906088 source:c:\users\romit\desktop\comp sci\function_prototype_and_return\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+

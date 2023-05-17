@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1591033490 source:c:\users\romit\desktop\comp sci\arrays_lesson_1\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+
+1591031501 c:\users\romit\desktop\comp sci\arrays_lesson_1\include\q1.h
+
+1591031509 c:\users\romit\desktop\comp sci\arrays_lesson_1\include\q2.h
+
+1591031519 c:\users\romit\desktop\comp sci\arrays_lesson_1\include\q3.h
+
+1591031534 c:\users\romit\desktop\comp sci\arrays_lesson_1\include\q4.h
+
+1591031981 source:c:\users\romit\desktop\comp sci\arrays_lesson_1\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+
+1591032887 source:c:\users\romit\desktop\comp sci\arrays_lesson_1\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+
+1591033187 source:c:\users\romit\desktop\comp sci\arrays_lesson_1\src\q3.cpp
+	"Q3.h"
+	<bits/stdc++.h>
+
+1591034109 source:c:\users\romit\desktop\comp sci\arrays_lesson_1\src\q4.cpp
+	"Q4.h"
+	<bits/stdc++.h>
+

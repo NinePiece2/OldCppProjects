@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Class_Assignment_1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Class_Assignment_1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Class_Assignment_1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Q1.h" />
+		<Unit filename="include/Q10.h" />
+		<Unit filename="include/Q11.h" />
+		<Unit filename="include/Q12.h" />
+		<Unit filename="include/Q13.h" />
+		<Unit filename="include/Q14.h" />
+		<Unit filename="include/Q15.h" />
+		<Unit filename="include/Q2.h" />
+		<Unit filename="include/Q3.h" />
+		<Unit filename="include/Q4.h" />
+		<Unit filename="include/Q5.h" />
+		<Unit filename="include/Q6.h" />
+		<Unit filename="include/Q7.h" />
+		<Unit filename="include/Q8.h" />
+		<Unit filename="include/Q9.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Q1.cpp" />
+		<Unit filename="src/Q10.cpp" />
+		<Unit filename="src/Q11.cpp" />
+		<Unit filename="src/Q12.cpp" />
+		<Unit filename="src/Q13.cpp" />
+		<Unit filename="src/Q14.cpp" />
+		<Unit filename="src/Q15.cpp" />
+		<Unit filename="src/Q2.cpp" />
+		<Unit filename="src/Q3.cpp" />
+		<Unit filename="src/Q4.cpp" />
+		<Unit filename="src/Q5.cpp" />
+		<Unit filename="src/Q6.cpp" />
+		<Unit filename="src/Q7.cpp" />
+		<Unit filename="src/Q8.cpp" />
+		<Unit filename="src/Q9.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

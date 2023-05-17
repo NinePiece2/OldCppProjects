@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582812422 source:c:\users\romit\desktop\comp sci\peer_programming_5\main.cpp
+	<iomanip>
+	<iostream>
+
+1582813198 source:c:\users\romit\desktop\comp sci\peer_programming_5-movie_ticket_sale\main.cpp
+	<iomanip>
+	<iostream>
+

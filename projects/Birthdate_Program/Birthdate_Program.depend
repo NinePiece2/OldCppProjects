@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582556843 source:c:\users\romit\desktop\comp sci\birthdate_program\main.cpp
+	<iostream>
+	<iomanip>
+

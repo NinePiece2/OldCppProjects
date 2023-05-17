@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1591641336 source:c:\users\romit\desktop\comp sci\array_practice_1\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+	"Q5.h"
+
+1591639231 c:\users\romit\desktop\comp sci\array_practice_1\include\q1.h
+
+1591639240 c:\users\romit\desktop\comp sci\array_practice_1\include\q2.h
+
+1591639246 c:\users\romit\desktop\comp sci\array_practice_1\include\q3.h
+
+1591639255 c:\users\romit\desktop\comp sci\array_practice_1\include\q4.h
+
+1591639262 c:\users\romit\desktop\comp sci\array_practice_1\include\q5.h
+
+1591640218 source:c:\users\romit\desktop\comp sci\array_practice_1\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+
+1591640545 source:c:\users\romit\desktop\comp sci\array_practice_1\src\q3.cpp
+	"Q3.h"
+	<bits/stdc++.h>
+
+1591640719 source:c:\users\romit\desktop\comp sci\array_practice_1\src\q4.cpp
+	"Q4.h"
+	<bits/stdc++.h>
+
+1591641836 source:c:\users\romit\desktop\comp sci\array_practice_1\src\q5.cpp
+	"Q5.h"
+	<bits/stdc++.h>
+
+1591639655 source:c:\users\romit\desktop\comp sci\array_practice_1\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+

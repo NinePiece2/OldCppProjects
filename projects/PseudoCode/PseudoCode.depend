@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1581430556 source:c:\users\romit\desktop\comp sci\pseudocode\main.cpp
+	<iostream>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+
+1581427626 c:\users\romit\desktop\comp sci\pseudocode\include\q1.h
+
+1581427641 c:\users\romit\desktop\comp sci\pseudocode\include\q2.h
+
+1581428434 source:c:\users\romit\desktop\comp sci\pseudocode\src\q2.cpp
+	"Q2.h"
+	<iostream>
+
+1581428054 source:c:\users\romit\desktop\comp sci\pseudocode\src\q1.cpp
+	"Q1.h"
+	<iostream>
+
+1581429950 c:\users\romit\desktop\comp sci\pseudocode\include\q3.h
+

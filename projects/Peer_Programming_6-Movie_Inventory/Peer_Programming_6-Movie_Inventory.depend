@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1582904569 source:c:\users\romit\desktop\comp sci\peer_programming_6-movie_inventory\main.cpp
+	<iostream>
+	"partA.h"
+	"partB.h"
+
+1582901484 c:\users\romit\desktop\comp sci\peer_programming_6-movie_inventory\include\parta.h
+
+1582904957 source:c:\users\romit\desktop\comp sci\peer_programming_6-movie_inventory\src\parta.cpp
+	<iostream>
+	<iomanip>
+	"partA.h"
+
+1582903601 c:\users\romit\desktop\comp sci\peer_programming_6-movie_inventory\include\partb.h
+
+1582904539 source:c:\users\romit\desktop\comp sci\peer_programming_6-movie_inventory\src\partb.cpp
+	"partB.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+

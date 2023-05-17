@@ -1,0 +1,254 @@
+Game# 1
+
+game>> start
+B 13
+game>> next
+N 33 (draw 2)
+game>> next
+I 29 (draw 3)
+game>> next
+N 42 (draw 4)
+game>> next
+G 53 (draw 5)
+game>> next
+O 64 (draw 6)
+game>> next
+G 46 (draw 7)
+game>> next
+B 10 (draw 8)
+game>> next
+N 35 (draw 9)
+game>> next
+I 25 (draw 10)
+game>> next
+B 15 (draw 11)
+game>> next
+N 36 (draw 12)
+game>> next
+O 66 (draw 13)
+game>> next
+O 68 (draw 14)
+game>> next
+O 75 (draw 15)
+game>> next
+G 57 (draw 16)
+game>> next
+O 73 (draw 17)
+game>> next
+B 9 (draw 18)
+game>> next
+O 62 (draw 19)
+game>> next
+B 2 (draw 20)
+game>> next
+O 70 (draw 21)
+game>> next
+G 58 (draw 22)
+game>> next
+N 31 (draw 23)
+game>> next
+N 44 (draw 24)
+game>> next
+G 59 (draw 25)
+game>> next
+I 20 (draw 26)
+game>> check
+B   I   N   G   O
+
+0   0   31  46  0   
+2   0   0   0   62  
+0   0   33  0   0   
+0   0   0   0   64  
+0   20  35  0   0   
+0   0   36  0   66  
+0   0   0   0   0   
+0   0   0   53  68  
+9   0   0   0   0   
+10  25  0   0   70  
+0   0   0   0   0   
+0   0   42  57  0   
+13  0   0   58  73  
+0   29  44  59  0   
+15  0   0   0   75  
+
+game>> next
+G 56 (draw 27)
+game>> next
+B 8 (draw 28)
+game>> next
+N 45 (draw 29)
+game>> next
+N 34 (draw 30)
+game>> next
+B 7 (draw 31)
+game>> next
+I 23 (draw 32)
+game>> check
+B   I   N   G   O
+
+0   0   31  46  0   
+2   0   0   0   62  
+0   0   33  0   0   
+0   0   34  0   64  
+0   20  35  0   0   
+0   0   36  0   66  
+7   0   0   0   0   
+8   23  0   53  68  
+9   0   0   0   0   
+10  25  0   0   70  
+0   0   0   56  0   
+0   0   42  57  0   
+13  0   0   58  73  
+0   29  44  59  0   
+15  0   45  0   75  
+
+game>> next
+B 6 (draw 33)
+game>> next
+I 26 (draw 34)
+game>> next
+G 51 (draw 35)
+game>> next
+B 12 (draw 36)
+game>> next
+G 47 (draw 37)
+game>> next
+O 65 (draw 38)
+game>> next
+G 48 (draw 39)
+game>> next
+B 3 (draw 40)
+game>> next
+N 38 (draw 41)
+game>> check
+B   I   N   G   O
+
+0   0   31  46  0   
+2   0   0   47  62  
+3   0   33  48  0   
+0   0   34  0   64  
+0   20  35  0   65  
+6   0   36  51  66  
+7   0   0   0   0   
+8   23  38  53  68  
+9   0   0   0   0   
+10  25  0   0   70  
+0   26  0   56  0   
+12  0   42  57  0   
+13  0   0   58  73  
+0   29  44  59  0   
+15  0   45  0   75  
+
+game>> next
+O 61 (draw 42)
+game>> next
+G 52 (draw 43)
+game>> next
+O 69 (draw 44)
+game>> next
+O 63 (draw 45)
+game>> next
+B 4 (draw 46)
+game>> next
+I 18 (draw 47)
+game>> next
+G 55 (draw 48)
+game>> next
+O 74 (draw 49)
+game>> next
+N 39 (draw 50)
+game>> next
+O 67 (draw 51)
+game>> next
+N 40 (draw 52)
+game>> check
+B   I   N   G   O
+
+0   0   31  46  61  
+2   0   0   47  62  
+3   18  33  48  63  
+4   0   34  0   64  
+0   20  35  0   65  
+6   0   36  51  66  
+7   0   0   52  67  
+8   23  38  53  68  
+9   0   39  0   69  
+10  25  40  55  70  
+0   26  0   56  0   
+12  0   42  57  0   
+13  0   0   58  73  
+0   29  44  59  74  
+15  0   45  0   75  
+
+game>> next
+O 71 (draw 53)
+game>> next
+I 16 (draw 54)
+game>> next
+N 37 (draw 55)
+game>> next
+N 41 (draw 56)
+game>> next
+G 54 (draw 57)
+game>> next
+I 27 (draw 58)
+game>> next
+G 50 (draw 59)
+game>> next
+G 49 (draw 60)
+game>> next
+B 1 (draw 61)
+game>> next
+B 11 (draw 62)
+game>> next
+I 28 (draw 63)
+game>> next
+I 19 (draw 64)
+game>> next
+I 21 (draw 65)
+game>> next
+N 32 (draw 66)
+game>> next
+B 14 (draw 67)
+game>> check
+B   I   N   G   O
+
+1   16  31  46  61  
+2   0   32  47  62  
+3   18  33  48  63  
+4   19  34  49  64  
+0   20  35  50  65  
+6   21  36  51  66  
+7   0   37  52  67  
+8   23  38  53  68  
+9   0   39  54  69  
+10  25  40  55  70  
+11  26  41  56  71  
+12  27  42  57  0   
+13  28  0   58  73  
+14  29  44  59  74  
+15  0   45  0   75  
+
+game>> next
+I 30 (draw 68)
+game>> check
+B   I   N   G   O
+
+1   16  31  46  61  
+2   0   32  47  62  
+3   18  33  48  63  
+4   19  34  49  64  
+0   20  35  50  65  
+6   21  36  51  66  
+7   0   37  52  67  
+8   23  38  53  68  
+9   0   39  54  69  
+10  25  40  55  70  
+11  26  41  56  71  
+12  27  42  57  0   
+13  28  0   58  73  
+14  29  44  59  74  
+15  30  45  0   75  
+
+game>> exit
+Exit? y

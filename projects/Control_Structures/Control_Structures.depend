@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1586188618 source:c:\users\romit\desktop\comp sci\control_structures\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+
+1586188256 c:\users\romit\desktop\comp sci\control_structures\include\q1.h
+
+1586188714 source:c:\users\romit\desktop\comp sci\control_structures\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+
+1586188267 c:\users\romit\desktop\comp sci\control_structures\include\q2.h
+
+1586190883 source:c:\users\romit\desktop\comp sci\control_structures\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+	"Q5.h"
+	"Q6.h"
+	"Q7.h"
+	"Q8.h"
+
+1586188737 c:\users\romit\desktop\comp sci\control_structures\include\q3.h
+
+1586188749 c:\users\romit\desktop\comp sci\control_structures\include\q4.h
+
+1586188764 c:\users\romit\desktop\comp sci\control_structures\include\q5.h
+
+1586189376 source:c:\users\romit\desktop\comp sci\control_structures\src\q4.cpp
+	"Q4.h"
+	<bits/stdc++.h>
+
+1586189819 source:c:\users\romit\desktop\comp sci\control_structures\src\q5.cpp
+	"Q5.h"
+	<bits/stdc++.h>
+
+1586188947 source:c:\users\romit\desktop\comp sci\control_structures\src\q3.cpp
+	"Q3.h"
+	<bits/stdc++.h>
+
+1586191718 source:c:\users\romit\desktop\comp sci\control_structures\src\q8.cpp
+	"Q8.h"
+	<bits/stdc++.h>
+
+1586189866 c:\users\romit\desktop\comp sci\control_structures\include\q8.h
+
+1586189843 c:\users\romit\desktop\comp sci\control_structures\include\q6.h
+
+1586189851 c:\users\romit\desktop\comp sci\control_structures\include\q7.h
+
+1586190034 source:c:\users\romit\desktop\comp sci\control_structures\src\q6.cpp
+	"Q6.h"
+	<bits/stdc++.h>
+
+1586190466 source:c:\users\romit\desktop\comp sci\control_structures\src\q7.cpp
+	"Q7.h"
+	<bits/stdc++.h>
+

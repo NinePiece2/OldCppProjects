@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1583512284 source:c:\users\romit\desktop\comp sci\pair_programming_7\src\q3.cpp
+	"Q3.h"
+	<bits/stdc++.h>
+
+1583509744 c:\users\romit\desktop\comp sci\pair_programming_7\include\q3.h
+
+1583512905 source:c:\users\romit\desktop\comp sci\pair_programming_7\src\q4.cpp
+	"Q4.h"
+	<bits/stdc++.h>
+
+1583509763 c:\users\romit\desktop\comp sci\pair_programming_7\include\q4.h
+
+1583512774 source:c:\users\romit\desktop\comp sci\pair_programming_7\main.cpp
+	<bits/stdc++.h>
+	"Q1.h"
+	"Q2.h"
+	"Q3.h"
+	"Q4.h"
+
+1583509716 c:\users\romit\desktop\comp sci\pair_programming_7\include\q1.h
+
+1583509731 c:\users\romit\desktop\comp sci\pair_programming_7\include\q2.h
+
+1583511772 source:c:\users\romit\desktop\comp sci\pair_programming_7\src\q2.cpp
+	"Q2.h"
+	<bits/stdc++.h>
+
+1583511344 source:c:\users\romit\desktop\comp sci\pair_programming_7\src\q1.cpp
+	"Q1.h"
+	<bits/stdc++.h>
+

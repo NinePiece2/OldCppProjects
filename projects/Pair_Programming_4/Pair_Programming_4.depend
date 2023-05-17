@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1582730764 source:c:\users\romit\desktop\comp sci\pair_programming_4\main.cpp
+	<iostream>
+	"interest.h"
+	"volume.h"
+	"spam.h"
+
+1582728162 c:\users\romit\desktop\comp sci\pair_programming_4\include\interest.h
+
+1582729617 source:c:\users\romit\desktop\comp sci\pair_programming_4\src\interest.cpp
+	<iomanip>
+	"interest.h"
+	<iostream>
+
+1582730602 source:c:\users\romit\desktop\comp sci\pair_programming_4\src\volume.cpp
+	"volume.h"
+	<iomanip>
+	<iostream>
+
+1582729561 c:\users\romit\desktop\comp sci\pair_programming_4\include\volume.h
+
+1582730862 source:c:\users\romit\desktop\comp sci\pair_programming_4\src\spam.cpp
+	"spam.h"
+	<iostream>
+
+1582730112 c:\users\romit\desktop\comp sci\pair_programming_4\include\spam.h
+

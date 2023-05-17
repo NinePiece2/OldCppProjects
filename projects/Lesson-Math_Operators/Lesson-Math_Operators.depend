@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582213708 source:c:\users\romit\desktop\comp sci\lesson-math_operators\main.cpp
+	<iostream>
+	"Q1.h"
+	"Q2.h"
+
+1582213407 c:\users\romit\desktop\comp sci\lesson-math_operators\include\q1.h
+
+1582213419 c:\users\romit\desktop\comp sci\lesson-math_operators\include\q2.h
+
+1582213419 source:c:\users\romit\desktop\comp sci\lesson-math_operators\src\q2.cpp
+	"Q2.h"
+
