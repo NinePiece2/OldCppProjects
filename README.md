@@ -1,7 +1,7 @@
-# HighSchool C++ Projects
+# Old C++ Projects
 
 ## Table of Contents
-- [HighSchool C++ Projects](#highschool-c-projects)
+- [Old C++ Projects](#old-c-projects)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
 
